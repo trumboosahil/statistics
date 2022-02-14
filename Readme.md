@@ -24,6 +24,12 @@ Population N, Sample n
  ## 3. Systamatic Sampling
   From population select nth person.
   Covid survey in mall (8th person) entering mall.
+  based on skills may bot be possible because skills can overlap
+ ## 3. Convenience Sampling
+ All persons who are intrested will be included in sampling.
+ Like survey for data scientist should be done who has knowledge about data scietist.
+ e,g stack overflow developer survey
+ 
 
 1. Measure of central tendency
 2. Measure of dispersion
