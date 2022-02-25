@@ -71,7 +71,7 @@ Variable is a property that can take any value like height, weight
 
 # Histoigram
  Data is continious. like age
-  Making bins
+  Making bins like weight of 10 , PDF is smothing of histogram
 
 ## Central tendency
 It refers to measure used to determine the center of distribution of the data.
