@@ -51,6 +51,24 @@ Variable is a property that can take any value like height, weight
 4. Z - Score
 5. Standard Normal distribution
 
+
+# Variable measurement scale
+1. Nominal ( Catagorical /Classes)
+2. Ordinal - order matters not value  ( Quantitave -discreate)
+3. Interval - value matters and order also matters natutal zero not present Temp ( 70-80, 80-90)
+4. Ratio - 
+
+# Frequency distribution
+Bar charts - data is discreate like 
+
+-----------------
+| Flower Name | Count |
+-----------------------
+| Lily | 4 |
+| Jasmine | 2 |
+| Sun Flower | 2 |
+------------------
+
 ## Central tendency
 It refers to measure used to determine the center of distribution of the data.
 # Mean = Sum(all numbers) / N
