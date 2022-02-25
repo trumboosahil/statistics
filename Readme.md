@@ -30,6 +30,20 @@ Population N, Sample n
  Like survey for data scientist should be done who has knowledge about data scietist.
  e,g stack overflow developer survey
  
+# What is called variables
+Variable is a property that can take any value like height, weight
+
+## Two kinds of variables
+1. Quantitative
+  Numerical like age
+  a) Discreate values
+   Class,
+  b) Continuous values
+   height, weight, River length, Blood pressure
+3. Qualititative / Catgorical value
+  Based on characteristic we can do math operations
+  eg, gender, martial status
+ 
 
 1. Measure of central tendency
 2. Measure of dispersion
