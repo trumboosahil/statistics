@@ -59,15 +59,19 @@ Variable is a property that can take any value like height, weight
 4. Ratio - 
 
 # Frequency distribution
-Bar charts - data is discreate like 
+# Bar charts - data is discreate like 
 
------------------
+
 | Flower Name | Count |
------------------------
+------------- | ----------
 | Lily | 4 |
 | Jasmine | 2 |
 | Sun Flower | 2 |
 ------------------
+
+# Histoigram
+ Data is continious. like age
+  Making bins
 
 ## Central tendency
 It refers to measure used to determine the center of distribution of the data.
