@@ -37,7 +37,7 @@ Variable is a property that can take any value like height, weight
 1. Quantitative
   Numerical like age
   a) Discreate values
-   Class,
+   Class,pincode
   b) Continuous values
    height, weight, River length, Blood pressure
 3. Qualititative / Catgorical value
